@@ -3,22 +3,26 @@
 <h3 align="center">A passionate full Stack developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=askashika&label=Profile%20views&color=0e75b6&style=flat" alt="Pragathi" /> </p>
 
-###
 
 - 🔭 I’m currently working on **LOKRAKSHAK**
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 📫 How to reach me **pragathishanubhag@gmil.com**
-  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pragathi-dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pragathi-dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+- 📫 How to reach me **pragathishanubhag@gmail.com**
+<!-- GitHub Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pragathi-dev&show_icons=true&theme=dracula" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pragathi-dev&theme=dracula&hide_border=false" alt="Pragathi-dev"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pragathi-dev&layout=compact&theme=dracula" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pragathi-dev&theme=dracula" />
+</p>
+
+
 <div>
 <img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif"  />
 </div>
@@ -55,4 +59,3 @@
 
 
 </div>
-###
