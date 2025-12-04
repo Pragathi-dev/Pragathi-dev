@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Pragathi</h1>
 <h3 align="center">A passionate full Stack developer</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=askashika&label=Profile%20views&color=0e75b6&style=flat" alt="Pragathi" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Pragathi-dev&label=Profile%20views&color=0e75b6&style=flat" alt="Pragathi" /> </p>
 
 
 - 🔭 I’m currently lead of **NEXUS CLUB**
