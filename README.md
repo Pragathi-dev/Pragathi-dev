@@ -4,9 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=askashika&label=Profile%20views&color=0e75b6&style=flat" alt="Pragathi" /> </p>
 
 
-- 🔭 I’m currently working on **LOKRAKSHAK**
+- 🔭 I’m currently lead of **NEXUS CLUB**
 
 - 🌱 I’m currently learning **MERN Stack**
+
+- I'm open to learning new stuff and I'm always open to contribute to projects  
 
 - 📫 How to reach me **pragathishanubhag@gmail.com**
 <!-- GitHub Stats -->
