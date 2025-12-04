@@ -10,13 +10,6 @@
 
 - 📫 How to reach me **pragathishanubhag@gmail.com**
 <!-- GitHub Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pragathi-dev&show_icons=true&theme=dracula&cache_seconds=1800" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pragathi-dev&layout=compact&theme=dracula&cache_seconds=1800" />
-</p>
 
 
 <p align="center">
