@@ -51,8 +51,4 @@
 </div>
 
 <br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pragathi-dev&show_icons=true&theme=dracula&hide_border=true" height="180" alt="stats graph"  />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pragathi-dev&theme=dracula&hide_border=true" height="180" alt="streak graph"  />
 </div>
